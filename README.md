@@ -32,7 +32,7 @@ Sidebar:
 A vertical menu with links like Dashboard, MyCases, and Activities. I used an array to store the sidebar links for better performance.
 CenterArea:
 
-This section shows dynamic content, like the Timeline and Claimbox, which tracks the progress of current claims.
+This section shows dynamic content, like the Progressbar and Claimbox, which tracks the progress of current claims.
 
 Progressbar:
 This ensures clear status for users.A step tracker displays progress, with each position according to completion status.
